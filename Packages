@@ -1,0 +1,20 @@
+Package: com.moudydee.myblack
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: moudydee <moudydee@hotmail.com>
+Filename: ./debs/com.moudydee.myblack_1.9_iphoneos-arm.deb
+Size: 2473550
+MD5sum: 5c02c591d6ab1d9f94e393654b3a10ce
+SHA1: ed293b5f161b12a31d097347699e3ed7c33988d2
+SHA256: 9d3836c03bf9b78756d97ac58876434fd0c8550e94c34dfe2cdc7746e89829fc
+Section: Theme (anemone)
+Homepage: http://www.saurik.com/id/7
+Description: an example of using APT
+ Every day people use Cydia, but with the
+ instructions embodied in this package,
+ people can publish for it as well.
+Author: moudydee <moudydee@hotmail.com>
+Depiction: http://www.saurik.com/id/7
+Name: myblack
+Sponsor: Microsoft <http://www.microsoft.com/>
+
